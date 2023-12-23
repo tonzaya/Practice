@@ -1,0 +1,15 @@
+C:\Users\oskol\RiderProjects\Prac1.1\Prac5.4\bin\Debug\net7.0\Prac5.4.exe
+C:\Users\oskol\RiderProjects\Prac1.1\Prac5.4\bin\Debug\net7.0\Prac5.4.deps.json
+C:\Users\oskol\RiderProjects\Prac1.1\Prac5.4\bin\Debug\net7.0\Prac5.4.runtimeconfig.json
+C:\Users\oskol\RiderProjects\Prac1.1\Prac5.4\bin\Debug\net7.0\Prac5.4.dll
+C:\Users\oskol\RiderProjects\Prac1.1\Prac5.4\bin\Debug\net7.0\Prac5.4.pdb
+C:\Users\oskol\RiderProjects\Prac1.1\Prac5.4\obj\Debug\net7.0\Prac5.4.csproj.AssemblyReference.cache
+C:\Users\oskol\RiderProjects\Prac1.1\Prac5.4\obj\Debug\net7.0\Prac5.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskol\RiderProjects\Prac1.1\Prac5.4\obj\Debug\net7.0\Prac5.4.AssemblyInfoInputs.cache
+C:\Users\oskol\RiderProjects\Prac1.1\Prac5.4\obj\Debug\net7.0\Prac5.4.AssemblyInfo.cs
+C:\Users\oskol\RiderProjects\Prac1.1\Prac5.4\obj\Debug\net7.0\Prac5.4.csproj.CoreCompileInputs.cache
+C:\Users\oskol\RiderProjects\Prac1.1\Prac5.4\obj\Debug\net7.0\Prac5.4.dll
+C:\Users\oskol\RiderProjects\Prac1.1\Prac5.4\obj\Debug\net7.0\refint\Prac5.4.dll
+C:\Users\oskol\RiderProjects\Prac1.1\Prac5.4\obj\Debug\net7.0\Prac5.4.pdb
+C:\Users\oskol\RiderProjects\Prac1.1\Prac5.4\obj\Debug\net7.0\Prac5.4.genruntimeconfig.cache
+C:\Users\oskol\RiderProjects\Prac1.1\Prac5.4\obj\Debug\net7.0\ref\Prac5.4.dll
