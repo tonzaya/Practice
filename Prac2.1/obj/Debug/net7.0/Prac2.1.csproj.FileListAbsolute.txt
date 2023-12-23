@@ -1,0 +1,15 @@
+C:\Users\oskol\RiderProjects\Prac1.1\Prac2.1\bin\Debug\net7.0\Prac2.1.exe
+C:\Users\oskol\RiderProjects\Prac1.1\Prac2.1\bin\Debug\net7.0\Prac2.1.deps.json
+C:\Users\oskol\RiderProjects\Prac1.1\Prac2.1\bin\Debug\net7.0\Prac2.1.runtimeconfig.json
+C:\Users\oskol\RiderProjects\Prac1.1\Prac2.1\bin\Debug\net7.0\Prac2.1.dll
+C:\Users\oskol\RiderProjects\Prac1.1\Prac2.1\bin\Debug\net7.0\Prac2.1.pdb
+C:\Users\oskol\RiderProjects\Prac1.1\Prac2.1\obj\Debug\net7.0\Prac2.1.csproj.AssemblyReference.cache
+C:\Users\oskol\RiderProjects\Prac1.1\Prac2.1\obj\Debug\net7.0\Prac2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oskol\RiderProjects\Prac1.1\Prac2.1\obj\Debug\net7.0\Prac2.1.AssemblyInfoInputs.cache
+C:\Users\oskol\RiderProjects\Prac1.1\Prac2.1\obj\Debug\net7.0\Prac2.1.AssemblyInfo.cs
+C:\Users\oskol\RiderProjects\Prac1.1\Prac2.1\obj\Debug\net7.0\Prac2.1.csproj.CoreCompileInputs.cache
+C:\Users\oskol\RiderProjects\Prac1.1\Prac2.1\obj\Debug\net7.0\Prac2.1.dll
+C:\Users\oskol\RiderProjects\Prac1.1\Prac2.1\obj\Debug\net7.0\refint\Prac2.1.dll
+C:\Users\oskol\RiderProjects\Prac1.1\Prac2.1\obj\Debug\net7.0\Prac2.1.pdb
+C:\Users\oskol\RiderProjects\Prac1.1\Prac2.1\obj\Debug\net7.0\Prac2.1.genruntimeconfig.cache
+C:\Users\oskol\RiderProjects\Prac1.1\Prac2.1\obj\Debug\net7.0\ref\Prac2.1.dll
